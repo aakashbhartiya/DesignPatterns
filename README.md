@@ -1,2 +1,2 @@
 # DesignPatterns
-Learning Design Patterns in Java
+Helping the World to Learn Design Patterns in Java
